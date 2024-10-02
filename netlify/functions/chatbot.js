@@ -13,7 +13,7 @@ exports.handler = async function(event, context) {
                 'Authorization': `Bearer ${OPENAI_API_KEY}`
             },
             body: JSON.stringify({
-                model: 'gpt-4o',
+                model: 'gpt-3.5-turbo',
                 messages: [{ role: 'user', content: userMessage }]
             })
         });
