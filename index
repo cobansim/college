@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test Genially et GitHub</title>
+</head>
+<body>
+    <h1>Bienvenue dans mon test Genially</h1>
+    <p>Ceci est une page simple hébergée sur GitHub, intégrée dans Genially.</p>
+    <p>Si tu vois cette page, cela signifie que l'intégration fonctionne !</p>
+</body>
+</html>
