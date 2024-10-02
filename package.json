@@ -1,0 +1,8 @@
+{
+  "name": "chatbot-netlify",
+  "version": "1.0.0",
+  "description": "Fonction serverless pour ChatGPT sur Netlify",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
